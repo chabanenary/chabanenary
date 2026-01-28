@@ -13,7 +13,7 @@ Embedded systems engineer and passionate about <strong>artificial intelligence</
 ## 💬 Key skills
 
 - **Android**: app development (architecture, UI, on-device model integration)
-- **Programming**: `C`, `Java`, `Python`, , `HTML`
+- **Programming**: `C`, `Java`, `Python`,`HTML`
 - **AI / Deep Learning**: `TensorFlow`, `Keras` (and related deployment tooling)
 - **Computer Vision**: YOLO-like models, data preparation, training, and export (e.g., ONNX/TFLite)
 
@@ -24,12 +24,6 @@ Embedded systems engineer and passionate about <strong>artificial intelligence</
 - 📌 <strong>YOLO11 trainig</strong>: YOLO11 custom training
   - GitHub: https://github.com/chabanenary/Yolo11_training_GK
 
-## 📈 Contribution activity
-
-> Note: GitHub doesn't allow embedding the exact native contributions calendar in a README, but you can display an activity graph generated as an SVG.
-
-![GitHub activity graph](https://github-readme-activity-graph.vercel.app/graph?username=chabanenary&theme=github-compact&hide_border=true)
-
 ## 📫 Contact
 
 - Email: **chabanenarymane@gmail.com**
@@ -39,5 +33,13 @@ Embedded systems engineer and passionate about <strong>artificial intelligence</
 <a href="https://www.linkedin.com/in/narymane-chabane-0b47a9b/">
    <img height="50" width="50" alt="LinkedIn" title="LinkedIn" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" />
 </a>
+
+
+## 📈 Contribution activity
+
+> Note: GitHub doesn't allow embedding the exact native contributions calendar in a README, but you can display an activity graph generated as an SVG.
+
+![GitHub activity graph](https://github-readme-activity-graph.vercel.app/graph?username=chabanenary&theme=github-compact&hide_border=true)
+
 
 ---
