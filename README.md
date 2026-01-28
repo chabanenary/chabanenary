@@ -19,9 +19,10 @@ Embedded systems engineer and passionate about <strong>artificial intelligence</
 
 ## 👨‍💻 Projects
 
-- 📱 <strong>GalleryKeeper</strong>: an Android app embedding a YOLO model to address a specific product need.
+- 📱 <strong>GalleryKeeper</strong>: an Android app embedding a YOLO model to automatically classify gallery photos.
   - GitHub: https://github.com/chabanenary/GalleryKeeper-App
-- 📌 <strong>Other project</strong>: (add link here)
+- 📌 <strong>YOLO11 trainig</strong>: YOLO11 custom training
+  - GitHub: https://github.com/chabanenary/Yolo11_training_GK
 
 ## 📈 Contribution activity
 
